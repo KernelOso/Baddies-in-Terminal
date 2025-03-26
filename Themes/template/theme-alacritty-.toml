@@ -1,0 +1,24 @@
+[colors.primary]
+foreground          = "#"
+background          = "#"
+
+[colors.normal]
+black   = "#"
+red     = "#"
+green   = "#"
+yellow  = "#"
+blue    = "#"
+magenta = "#"
+cyan    = "#"
+white   = "#"
+
+[colors.bright]
+black   = "#"
+red     = "#"
+green   = "#"
+yellow  = "#"
+blue    = "#"
+magenta = "#"
+cyan    = "#"
+white   = "#"
+

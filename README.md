@@ -1,7 +1,13 @@
-# Baddies in Terminal
+# 🖌️ Baddies in Terminal
 
-![screenshot](./README_ASSETS/screenshot.png)
+![screenshot](./README_ASSETS/banner.png)
 
-A basic recompilation of terminal themes.
+A simple repository for compiling terminal color schemes (Base16), ready to be applied.
 
-- Script used in color test : https://github.com/pablopunk/colortest
+🖥️ Supported terminals:
+- 🐱 Kitty
+- 🚀 Alacritty
+
+## 📄 List of Themes
+
+You can see the list of ALL themes at: [THEMES](./THEMES.md)

@@ -2,27 +2,17 @@
 
 A small demonstration of the themes here:
 
----
 
-[Atom](./Themes/Atom/credits.md)
 <details>
-    <summary>Preview</summary>
+<summary>
+<a href="./Themes/Atom/credits.md">Atom</a>
+</summary>
 
-    ![fetch](./Themes/Atom/assets/fetch.png)
+fetch :
+![fetch](./Themes/Atom/assets/fetch.png)
 
-    ![fetch](./Themes/Atom/assets/colortest.png)
-
-</details>
-
----
-
-[Template (ignore)](./README.md)
-<details>
-    <summary>Preview</summary>
-
-    fetch aqui
-
-    colortest aqui
+colortest :
+![fetch](./Themes/Atom/assets/colortest.png)
 
 </details>
 

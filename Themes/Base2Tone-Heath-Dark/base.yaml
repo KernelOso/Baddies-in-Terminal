@@ -1,0 +1,23 @@
+
+background: "222022"
+foreground: "9e999f"
+cursor:     "995900"
+
+b_black:    "222022"
+b_red:      "8f6c93"
+b_green:    "d9b98c"
+b_yellow:   "ffd599"
+b_blue:     "9a819c"
+b_magenta:  "c38022"
+b_cyan:     "cb79d2"
+b_white:    "9e999f"
+
+l_black:    "666666"
+l_red:      "ff3334"
+l_green:    "9ec400"
+l_yellow:   "e7c547"
+l_blue:     "7aa6da"
+l_magenta:  "b77ee0"
+l_cyan:     "54ced6"
+l_white:    "ffffff"
+

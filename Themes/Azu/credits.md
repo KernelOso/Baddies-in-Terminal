@@ -1,8 +1,7 @@
-# Ayaka
+# Azu
 
 ### Links :
-- 🗃️ Creator GitHub : [ruhannn](https://github.com/ruhannn)
-- 📄 Original Yaml : [GitHub file](https://github.com/Gogh-Co/Gogh/blob/master/themes/Ayaka.yml)
+- 📃 Original Yaml : [GitHub file](https://github.com/Gogh-Co/Gogh/blob/master/themes/Azu.yml)
 - 🐱 Kitty port credits : [Oso](github..com/KenrelOso), using [yaml to kitty script](https://github.com/KernelOso/yaml-to-kitty-color-converter)
 - 🚀 Alacritty port credits : [Oso](github..com/KenrelOso), using [yaml to kitty script](https://github.com/KernelOso/yaml-to-alacrity-color-converter)
 

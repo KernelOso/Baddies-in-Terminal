@@ -47,3 +47,33 @@ colortest : <br>
 </details>
 
 
+
+<details>
+<summary>
+<a href="./Themes/Azu/credits.md">Azu</a>
+</summary>
+
+fetch : <br>
+![fetch](./Themes/Azu/assets/fetch.png)
+
+colortest : <br>
+![fetch](./Themes/Azu/assets/colortest.png)
+
+</details>
+
+
+
+<details>
+<summary>
+<a href="./Themes/Base2Tone-Cave-Dark/credits.md">Base2Tone-Cave-Dark</a>
+</summary>
+
+fetch : <br>
+![fetch](./Themes/Base2Tone-Cave-Dark/assets/fetch.png)
+
+colortest : <br>
+![fetch](./Themes/Base2Tone-Cave-Dark/assets/colortest.png)
+
+</details>
+
+

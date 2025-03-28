@@ -210,3 +210,33 @@ colortest : <br>
 ![fetch](./Themes/Base2Tone-Mall-Light/assets/colortest.png)
 
 </details>
+
+
+
+<details>
+<summary>
+<a href="./Themes/Base2Tone-Motel-Dark/credits.md">Base2Tone-Motel-Dark</a>
+</summary>
+
+fetch : <br>
+![fetch](./Themes/Base2Tone-Motel-Dark/assets/fetch.png)
+
+colortest : <br>
+![fetch](./Themes/Base2Tone-Motel-Dark/assets/colortest.png)
+
+</details>
+
+
+
+<details>
+<summary>
+<a href="./Themes/Base2Tone-Motel-Light/credits.md">Base2Tone-Motel-Light</a>
+</summary>
+
+fetch : <br>
+![fetch](./Themes/Base2Tone-Motel-Light/assets/fetch.png)
+
+colortest : <br>
+![fetch](./Themes/Base2Tone-Motel-Light/assets/colortest.png)
+
+</details>

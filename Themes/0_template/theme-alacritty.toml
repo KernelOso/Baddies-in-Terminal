@@ -22,3 +22,12 @@ magenta = "#"
 cyan    = "#"
 white   = "#"
 
+[colors.dim]
+black   = "#"
+red     = "#"
+green   = "#"
+yellow  = "#"
+blue    = "#"
+magenta = "#"
+cyan    = "#"
+white   = "#"

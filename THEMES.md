@@ -180,3 +180,33 @@ colortest : <br>
 ![fetch](./Themes/Base2Tone-Lavender-Light/assets/colortest.png)
 
 </details>
+
+
+
+<details>
+<summary>
+<a href="./Themes/Base2Tone-Mall-Dark/credits.md">Base2Tone-Mall-Dark</a>
+</summary>
+
+fetch : <br>
+![fetch](./Themes/Base2Tone-Mall-Dark/assets/fetch.png)
+
+colortest : <br>
+![fetch](./Themes/Base2Tone-Mall-Dark/assets/colortest.png)
+
+</details>
+
+
+
+<details>
+<summary>
+<a href="./Themes/Base2Tone-Mall-Light/credits.md">Base2Tone-Mall-Light</a>
+</summary>
+
+fetch : <br>
+![fetch](./Themes/Base2Tone-Mall-Light/assets/fetch.png)
+
+colortest : <br>
+![fetch](./Themes/Base2Tone-Mall-Light/assets/colortest.png)
+
+</details>

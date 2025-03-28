@@ -150,3 +150,33 @@ colortest : <br>
 ![fetch](./Themes/Base2Tone-Heath-Light/assets/colortest.png)
 
 </details>
+
+
+
+<details>
+<summary>
+<a href="./Themes/Base2Tone-Lavender-Dark/credits.md">Base2Tone-Lavender-Dark</a>
+</summary>
+
+fetch : <br>
+![fetch](./Themes/Base2Tone-Lavender-Dark/assets/fetch.png)
+
+colortest : <br>
+![fetch](./Themes/Base2Tone-Lavender-Dark/assets/colortest.png)
+
+</details>
+
+
+
+<details>
+<summary>
+<a href="./Themes/Base2Tone-Lavender-Light/credits.md">Base2Tone-Lavender-Light</a>
+</summary>
+
+fetch : <br>
+![fetch](./Themes/Base2Tone-Lavender-Light/assets/fetch.png)
+
+colortest : <br>
+![fetch](./Themes/Base2Tone-Lavender-Light/assets/colortest.png)
+
+</details>

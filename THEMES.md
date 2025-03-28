@@ -95,7 +95,7 @@ colortest : <br>
 
 <details>
 <summary>
-<a href="./Themes/Base2Tone-Evening-Dark/credits.md">Base2Tone-Cave-Dark</a>
+<a href="./Themes/Base2Tone-Evening-Dark/credits.md">Base2Tone-Evening-Dark</a>
 </summary>
 
 fetch : <br>
@@ -110,7 +110,7 @@ colortest : <br>
 
 <details>
 <summary>
-<a href="./Themes/Base2Tone-Evening-Light/credits.md">Base2Tone-Cave-Light</a>
+<a href="./Themes/Base2Tone-Evening-Light/credits.md">Base2Tone-Evening-Light</a>
 </summary>
 
 fetch : <br>

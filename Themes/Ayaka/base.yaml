@@ -1,0 +1,22 @@
+background: "36283d"
+foreground: "cedaeb"
+cursor:     "cedaeb"
+
+b_black:    "36283d"
+b_red:      "71ADE9"
+b_green:    "AB8CAE"
+b_yellow:   "9EA0D3"
+b_blue:     "8BB8E9"
+b_magenta:  "E1B4CE"
+b_cyan:     "cedaeb"
+b_white:    "9098a4"
+
+l_black:    "71ADE9"
+l_red:      "AB8CAE"
+l_green:    "E59DB1"
+l_yellow:   "9EA0D3"
+l_blue:     "8BB8E9"
+l_magenta:  "E1B4CE"
+l_cyan:     "cedaeb"
+l_white:    "FFFEFE"
+

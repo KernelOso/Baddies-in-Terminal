@@ -1,0 +1,22 @@
+background: "15141b"
+foreground: "edecee"
+cursor:     "a277ff"
+
+b_black:    "110f18"
+b_red:      "ff6767"
+b_green:    "61ffca"
+b_yellow:   "ffca85"
+b_blue:     "a277ff"
+b_magenta:  "a277ff"
+b_cyan:     "61ffca"
+b_white:    "edecee"
+
+l_black:    "4d4d4d"
+l_red:      "ff6767"
+l_green:    "61ffca"
+l_yellow:   "ffca85"
+l_blue:     "a277ff"
+l_magenta:  "a277ff"
+l_cyan:     "61ffca"
+l_white:    "edecee"
+

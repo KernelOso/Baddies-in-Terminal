@@ -1,6 +1,8 @@
 [colors.primary]
 foreground  =       "#C5C8C6"
 background  =       "#161719"
+
+[colors.cursor]
 cursor      =       "#C5C8C6"
 
 [colors.normal]
@@ -22,3 +24,4 @@ blue        =       "#96CBFE"
 magenta     =       "#B9B6FC"
 cyan        =       "#85BEFD"
 white       =       "#E0E0E0"
+

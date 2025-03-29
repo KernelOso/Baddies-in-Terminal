@@ -7,6 +7,8 @@ A simple repository for compiling terminal color schemes (Base16), ready to be a
 🖥️ Supported terminals:
 - 🐱 Kitty
 - 🚀 Alacritty
+- 🐜 Termite
+- 𝕏  XResources
 
 ## 📄 List of Themes
 

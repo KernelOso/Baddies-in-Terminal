@@ -1,8 +1,9 @@
-
 [colors.primary]
 foreground  =       "#a5979a"
 background  =       "#242323"
-#cursor      =       "#e24f32"
+
+[colors.cursor]
+cursor      =       "#e24f32"
 
 [colors.normal]
 black       =       "#242323"

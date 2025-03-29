@@ -1,7 +1,8 @@
-
 [colors.primary]
 foreground  =       "#D9E6F2"
 background  =       "#09111A"
+
+[colors.cursor]
 cursor      =       "#D9E6F2"
 
 [colors.normal]

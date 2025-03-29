@@ -46,6 +46,22 @@ colortest : <br>
 </details>
 
 
+
+<details>
+<summary>
+<a href="./Themes/Arthur/credits.md">Arthur</a>
+</summary>
+
+fetch : <br>
+![fetch](./Themes/Arthur/assets/fetch.png)
+
+colortest : <br>
+![fetch](./Themes/Arthur/assets/colortest.png)
+
+</details>
+
+
+
 <details>
 <summary>
 <a href="./Themes/Atom/credits.md">Atom</a>

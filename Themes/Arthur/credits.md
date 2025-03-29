@@ -1,8 +1,8 @@
-# Argonaut
+# Arthur
 
 ### Links :
-- 📃 Web Page : [GitHub Repo](https://github.com/pwaleczek/Argonaut-theme)
-- 📃 Original Yaml : [GitHub file](https://github.com/Gogh-Co/Gogh/blob/master/themes/Argonaut.yml)
+- 📃 Web Page : [GitHub Repo](https://github.com/thenewvu/vim-colors-arthur)
+- 📃 Original Yaml : [GitHub file](https://github.com/Gogh-Co/Gogh/blob/master/themes/Arthur.yml)
 - 🐱 Kitty port credits : [Oso](github.com/KernelOso), using [yaml to Terminal Config](https://github.com/KernelOso/YAML_color-scheme_to_Terminal_Themes)
 - 🚀 Alacritty port credits : [Oso](github.com/KernelOso), using [yaml to Terminal Config](https://github.com/KernelOso/YAML_color-scheme_to_Terminal_Themes)
 - 🐜 Termite port credits : [Oso](github.com/KernelOso), using [yaml to kitty script](https://github.com/KernelOso/yaml-to-kitty-color-converter)

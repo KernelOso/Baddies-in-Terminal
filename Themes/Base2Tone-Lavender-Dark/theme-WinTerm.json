@@ -1,0 +1,23 @@
+{
+  "name": "Base2Tone-Lavender-Dark",
+  "cursorColor": "#b042ff",
+  "selectionBackground": "#b042ff",
+  "background": "#201d2a",
+  "foreground": "#9992b0",
+  "black": "#201d2a",
+  "red": "#9375f5",
+  "green": "#dba8ff",
+  "yellow": "#ecd1ff",
+  "blue": "#a286fd",
+  "purple": "#ca80ff",
+  "cyan": "#b5a0fe",
+  "white": "#9992b0",
+  "brightBlack": "#666666",
+  "brightRed": "#ff3334",
+  "brightGreen": "#9ec400",
+  "brightYellow": "#e7c547",
+  "brightBlue": "#7aa6da",
+  "brightPurple": "#b77ee0",
+  "brightCyan": "#54ced6",
+  "brightWhite": "#ffffff"
+}

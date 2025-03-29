@@ -1,0 +1,23 @@
+{
+  "name": "Base2Tone-Cave-Dark",
+  "cursorColor": "#996e00",
+  "selectionBackground": "#996e00",
+  "background": "#222021",
+  "foreground": "#9f999b",
+  "black": "#222021",
+  "red": "#936c7a",
+  "green": "#ddaf3c",
+  "yellow": "#ffcc4d",
+  "blue": "#9c818b",
+  "purple": "#c39622",
+  "cyan": "#d27998",
+  "white": "#9f999b",
+  "brightBlack": "#666666",
+  "brightRed": "#ff3334",
+  "brightGreen": "#9ec400",
+  "brightYellow": "#e7c547",
+  "brightBlue": "#7aa6da",
+  "brightPurple": "#b77ee0",
+  "brightCyan": "#54ced6",
+  "brightWhite": "#ffffff"
+}

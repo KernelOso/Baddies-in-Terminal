@@ -1,0 +1,23 @@
+{
+  "name": "Atom",
+  "cursorColor": "#C5C8C6",
+  "selectionBackground": "#C5C8C6",
+  "background": "#161719",
+  "foreground": "#C5C8C6",
+  "black": "#000000",
+  "red": "#FD5FF1",
+  "green": "#87C38A",
+  "yellow": "#FFD7B1",
+  "blue": "#85BEFD",
+  "purple": "#B9B6FC",
+  "cyan": "#85BEFD",
+  "white": "#E0E0E0",
+  "brightBlack": "#000000",
+  "brightRed": "#FD5FF1",
+  "brightGreen": "#94FA36",
+  "brightYellow": "#F5FFA8",
+  "brightBlue": "#96CBFE",
+  "brightPurple": "#B9B6FC",
+  "brightCyan": "#85BEFD",
+  "brightWhite": "#E0E0E0"
+}

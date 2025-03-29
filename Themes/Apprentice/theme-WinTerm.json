@@ -1,0 +1,23 @@
+{
+  "name": "Apprentice",
+  "cursorColor": "#BCBCBC",
+  "selectionBackground": "#BCBCBC",
+  "background": "#262626",
+  "foreground": "#BCBCBC",
+  "black": "#1C1C1C",
+  "red": "#AF5F5F",
+  "green": "#5F875F",
+  "yellow": "#87875F",
+  "blue": "#5F87AF",
+  "purple": "#5F5F87",
+  "cyan": "#5F8787",
+  "white": "#6C6C6C",
+  "brightBlack": "#444444",
+  "brightRed": "#FF8700",
+  "brightGreen": "#87AF87",
+  "brightYellow": "#FFFFAF",
+  "brightBlue": "#8FAFD7",
+  "brightPurple": "#8787AF",
+  "brightCyan": "#5FAFAF",
+  "brightWhite": "#FFFFFF"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Base2Tone-Mall-Light",
+  "cursorColor": "#75bfff",
+  "selectionBackground": "#75bfff",
+  "background": "#f8fafc",
+  "foreground": "#75bfff",
+  "black": "#1e1e1f",
+  "red": "#a17efc",
+  "green": "#8ac8ff",
+  "yellow": "#b3dbff",
+  "blue": "#b294ff",
+  "purple": "#69b5f7",
+  "cyan": "#c5adff",
+  "white": "#97959d",
+  "brightBlack": "#666666",
+  "brightRed": "#ff3334",
+  "brightGreen": "#9ec400",
+  "brightYellow": "#e7c547",
+  "brightBlue": "#7aa6da",
+  "brightPurple": "#b77ee0",
+  "brightCyan": "#54ced6",
+  "brightWhite": "#ffffff"
+}

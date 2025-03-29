@@ -1,0 +1,23 @@
+{
+  "name": "Base2Tone-Motel-Light",
+  "cursorColor": "#f8917c",
+  "selectionBackground": "#f8917c",
+  "background": "#fbf9f9",
+  "foreground": "#f8917c",
+  "black": "#242323",
+  "red": "#956f76",
+  "green": "#ffa28f",
+  "yellow": "#ffc8bd",
+  "blue": "#a7868b",
+  "purple": "#f77c64",
+  "cyan": "#b89da2",
+  "white": "#a5979a",
+  "brightBlack": "#666666",
+  "brightRed": "#ff3334",
+  "brightGreen": "#9ec400",
+  "brightYellow": "#e7c547",
+  "brightBlue": "#7aa6da",
+  "brightPurple": "#b77ee0",
+  "brightCyan": "#54ced6",
+  "brightWhite": "#ffffff"
+}

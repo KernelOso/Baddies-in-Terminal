@@ -1,0 +1,23 @@
+{
+  "name": "Argonaut",
+  "cursorColor": "#FFFAF4",
+  "selectionBackground": "#FFFAF4",
+  "background": "#0E1019",
+  "foreground": "#FFFAF4",
+  "black": "#232323",
+  "red": "#FF000F",
+  "green": "#8CE10B",
+  "yellow": "#FFB900",
+  "blue": "#008DF8",
+  "purple": "#6D43A6",
+  "cyan": "#00D8EB",
+  "white": "#FFFFFF",
+  "brightBlack": "#444444",
+  "brightRed": "#FF2740",
+  "brightGreen": "#ABE15B",
+  "brightYellow": "#FFD242",
+  "brightBlue": "#0092FF",
+  "brightPurple": "#9A5FEB",
+  "brightCyan": "#67FFF0",
+  "brightWhite": "#FFFFFF"
+}

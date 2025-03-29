@@ -1,0 +1,23 @@
+{
+  "name": "Base2Tone-Heath-Light",
+  "cursorColor": "#cc8c33",
+  "selectionBackground": "#cc8c33",
+  "background": "#fbfaf9",
+  "foreground": "#cc8c33",
+  "black": "#222022",
+  "red": "#8f6c93",
+  "green": "#d9b98c",
+  "yellow": "#ffd599",
+  "blue": "#9a819c",
+  "purple": "#c38022",
+  "cyan": "#cb79d2",
+  "white": "#9e999f",
+  "brightBlack": "#666666",
+  "brightRed": "#ff3334",
+  "brightGreen": "#9ec400",
+  "brightYellow": "#e7c547",
+  "brightBlue": "#7aa6da",
+  "brightPurple": "#b77ee0",
+  "brightCyan": "#54ced6",
+  "brightWhite": "#ffffff"
+}

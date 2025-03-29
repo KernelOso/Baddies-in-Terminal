@@ -1,0 +1,23 @@
+{
+  "name": "Base2Tone-Evening-Dark",
+  "cursorColor": "#b37537",
+  "selectionBackground": "#b37537",
+  "background": "#2a2734",
+  "foreground": "#a4a1b5",
+  "black": "#2a2734",
+  "red": "#8a75f5",
+  "green": "#ffb870",
+  "yellow": "#ffcc99",
+  "blue": "#9a86fd",
+  "purple": "#ffa142",
+  "cyan": "#afa0fe",
+  "white": "#a4a1b5",
+  "brightBlack": "#666666",
+  "brightRed": "#ff3334",
+  "brightGreen": "#9ec400",
+  "brightYellow": "#e7c547",
+  "brightBlue": "#7aa6da",
+  "brightPurple": "#b77ee0",
+  "brightCyan": "#54ced6",
+  "brightWhite": "#ffffff"
+}

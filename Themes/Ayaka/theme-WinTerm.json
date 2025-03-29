@@ -1,0 +1,23 @@
+{
+  "name": "Ayaka",
+  "cursorColor": "#cedaeb",
+  "selectionBackground": "#cedaeb",
+  "background": "#36283d",
+  "foreground": "#cedaeb",
+  "black": "#36283d",
+  "red": "#71ADE9",
+  "green": "#AB8CAE",
+  "yellow": "#9EA0D3",
+  "blue": "#8BB8E9",
+  "purple": "#E1B4CE",
+  "cyan": "#cedaeb",
+  "white": "#9098a4",
+  "brightBlack": "#71ADE9",
+  "brightRed": "#AB8CAE",
+  "brightGreen": "#E59DB1",
+  "brightYellow": "#9EA0D3",
+  "brightBlue": "#8BB8E9",
+  "brightPurple": "#E1B4CE",
+  "brightCyan": "#cedaeb",
+  "brightWhite": "#FFFEFE"
+}

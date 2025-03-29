@@ -1,0 +1,23 @@
+{
+  "name": "Astrodark",
+  "cursorColor": "#CACCD3",
+  "selectionBackground": "#CACCD3",
+  "background": "#1A1D23",
+  "foreground": "#9B9FA9",
+  "black": "#111317",
+  "red": "#F8747E",
+  "green": "#75AD47",
+  "yellow": "#D09214",
+  "blue": "#50A4E9",
+  "purple": "#CC83E3",
+  "cyan": "#00B298",
+  "white": "#ADB0BB",
+  "brightBlack": "#576176",
+  "brightRed": "#FAA5AB",
+  "brightGreen": "#A5CD84",
+  "brightYellow": "#EFBD58",
+  "brightBlue": "#8DC3F1",
+  "brightPurple": "#DEAEED",
+  "brightCyan": "#27FFDF",
+  "brightWhite": "#CACCD3"
+}

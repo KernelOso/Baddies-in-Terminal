@@ -1,0 +1,23 @@
+{
+  "name": "Arthur",
+  "cursorColor": "#DDEEDD",
+  "selectionBackground": "#DDEEDD",
+  "background": "#1C1C1C",
+  "foreground": "#DDEEDD",
+  "black": "#3D352A",
+  "red": "#CD5C5C",
+  "green": "#86AF80",
+  "yellow": "#E8AE5B",
+  "blue": "#6495ED",
+  "purple": "#DEB887",
+  "cyan": "#B0C4DE",
+  "white": "#BBAA99",
+  "brightBlack": "#554444",
+  "brightRed": "#CC5533",
+  "brightGreen": "#88AA22",
+  "brightYellow": "#FFA75D",
+  "brightBlue": "#87CEEB",
+  "brightPurple": "#996600",
+  "brightCyan": "#B0C4DE",
+  "brightWhite": "#DDCCBB"
+}

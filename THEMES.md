@@ -299,3 +299,18 @@ colortest : <br>
 ![fetch](./Themes/Base2Tone-Motel-Light/assets/colortest.png)
 
 </details>
+
+
+
+<details>
+<summary>
+<a href="./Themes/Tokyo-Night/credits.md">Tokyo-Night</a>
+</summary>
+
+fetch : <br>
+![fetch](./Themes/Tokyo-Night/assets/fetch.png)
+
+colortest : <br>
+![fetch](./Themes/Tokyo-Night/assets/colortest.png)
+
+</details>

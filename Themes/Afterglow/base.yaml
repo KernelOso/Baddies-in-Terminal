@@ -1,0 +1,22 @@
+background: "222222"
+foreground: "D0D0D0"
+cursor:     "D0D0D0"
+
+b_black:    "151515"
+b_red:      "A53C23"
+b_green:    "7B9246"
+b_yellow:   "D3A04D"
+b_blue:     "6C99BB"
+b_magenta:  "9F4E85"
+b_cyan:     "7DD6CF"
+b_white:    "D0D0D0"
+
+l_black:    "505050"
+l_red:      "A53C23"
+l_green:    "7B9246"
+l_yellow:   "D3A04D"
+l_blue:     "547C99"
+l_magenta:  "9F4E85"
+l_cyan:     "7DD6CF"
+l_white:    "F5F5F5"
+

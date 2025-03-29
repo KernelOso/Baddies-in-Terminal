@@ -2,6 +2,20 @@
 
 A small demonstration of the themes here:
 
+<details>
+<summary>
+<a href="./Themes/Afterglow/credits.md">Afterglow</a>
+</summary>
+
+fetch : <br>
+![fetch](./Themes/Afterglow/assets/fetch.png)
+
+colortest : <br>
+![fetch](./Themes/Afterglow/assets/colortest.png)
+
+</details>
+
+
 
 <details>
 <summary>

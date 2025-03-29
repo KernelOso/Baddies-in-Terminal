@@ -19,6 +19,21 @@ colortest : <br>
 
 <details>
 <summary>
+<a href="./Themes/Apprentice/credits.md">Apprentice</a>
+</summary>
+
+fetch : <br>
+![fetch](./Themes/Apprentice/assets/fetch.png)
+
+colortest : <br>
+![fetch](./Themes/Apprentice/assets/colortest.png)
+
+</details>
+
+
+
+<details>
+<summary>
 <a href="./Themes/Atom/credits.md">Atom</a>
 </summary>
 

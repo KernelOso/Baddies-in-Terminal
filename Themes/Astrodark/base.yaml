@@ -1,0 +1,22 @@
+background: "1A1D23"
+foreground: "9B9FA9"
+cursor:     "CACCD3"
+
+b_black:    "111317"
+b_red:      "F8747E"
+b_green:    "75AD47"
+b_yellow:   "D09214"
+b_blue:     "50A4E9"
+b_magenta:  "CC83E3"
+b_cyan:     "00B298"
+b_white:    "ADB0BB"
+
+l_black:    "576176"
+l_red:      "FAA5AB"
+l_green:    "A5CD84"
+l_yellow:   "EFBD58"
+l_blue:     "8DC3F1"
+l_magenta:  "DEAEED"
+l_cyan:     "27FFDF"
+l_white:    "CACCD3"
+

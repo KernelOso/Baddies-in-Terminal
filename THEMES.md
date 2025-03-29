@@ -34,6 +34,20 @@ colortest : <br>
 
 <details>
 <summary>
+<a href="./Themes/Argonaut/credits.md">Argonaut</a>
+</summary>
+
+fetch : <br>
+![fetch](./Themes/Argonaut/assets/fetch.png)
+
+colortest : <br>
+![fetch](./Themes/Argonaut/assets/colortest.png)
+
+</details>
+
+
+<details>
+<summary>
 <a href="./Themes/Atom/credits.md">Atom</a>
 </summary>
 

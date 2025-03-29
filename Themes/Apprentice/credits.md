@@ -1,7 +1,7 @@
 # Apprentice
 
 ### Links :
-- 📃 Web Page : https://github.com/romainl/Apprentice
+- 📃 Web Page : [GitHub Repo](https://github.com/romainl/Apprentice)
 - 📃 Original Yaml : [GitHub file](https://github.com/Gogh-Co/Gogh/blob/master/themes/Apprentice.yml)
 - 🐱 Kitty port credits : [Oso](github.com/KernelOso), using [yaml to Terminal Config](https://github.com/KernelOso/YAML_color-scheme_to_Terminal_Themes)
 - 🚀 Alacritty port credits : [Oso](github.com/KernelOso), using [yaml to Terminal Config](https://github.com/KernelOso/YAML_color-scheme_to_Terminal_Themes)

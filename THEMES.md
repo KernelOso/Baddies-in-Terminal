@@ -1,6 +1,11 @@
-# List of Themes
+# Theme List
 
 A small demonstration of the themes here:
+<br>
+<br>
+
+
+
 
 <details>
 <summary>
@@ -11,7 +16,7 @@ fetch : <br>
 ![fetch](./Themes/Afterglow/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Afterglow/assets/colortest.png)
+![colortest](./Themes/Afterglow/assets/colortest.png)
 
 </details>
 
@@ -26,7 +31,7 @@ fetch : <br>
 ![fetch](./Themes/Apprentice/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Apprentice/assets/colortest.png)
+![colortest](./Themes/Apprentice/assets/colortest.png)
 
 </details>
 
@@ -41,7 +46,7 @@ fetch : <br>
 ![fetch](./Themes/Argonaut/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Argonaut/assets/colortest.png)
+![colortest](./Themes/Argonaut/assets/colortest.png)
 
 </details>
 
@@ -56,7 +61,7 @@ fetch : <br>
 ![fetch](./Themes/Arthur/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Arthur/assets/colortest.png)
+![colortest](./Themes/Arthur/assets/colortest.png)
 
 </details>
 
@@ -71,7 +76,7 @@ fetch : <br>
 ![fetch](./Themes/Astrodark/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Astrodark/assets/colortest.png)
+![colortest](./Themes/Astrodark/assets/colortest.png)
 
 </details>
 
@@ -86,7 +91,7 @@ fetch : <br>
 ![fetch](./Themes/Atom/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Atom/assets/colortest.png)
+![colortest](./Themes/Atom/assets/colortest.png)
 
 </details>
 
@@ -101,7 +106,7 @@ fetch : <br>
 ![fetch](./Themes/Aura/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Aura/assets/colortest.png)
+![colortest](./Themes/Aura/assets/colortest.png)
 
 </details>
 
@@ -116,7 +121,7 @@ fetch : <br>
 ![fetch](./Themes/Ayaka/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Ayaka/assets/colortest.png)
+![colortest](./Themes/Ayaka/assets/colortest.png)
 
 </details>
 
@@ -131,7 +136,7 @@ fetch : <br>
 ![fetch](./Themes/Azu/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Azu/assets/colortest.png)
+![colortest](./Themes/Azu/assets/colortest.png)
 
 </details>
 
@@ -146,7 +151,7 @@ fetch : <br>
 ![fetch](./Themes/Base2Tone-Cave-Dark/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Base2Tone-Cave-Dark/assets/colortest.png)
+![colortest](./Themes/Base2Tone-Cave-Dark/assets/colortest.png)
 
 </details>
 
@@ -161,7 +166,7 @@ fetch : <br>
 ![fetch](./Themes/Base2Tone-Cave-Light/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Base2Tone-Cave-Light/assets/colortest.png)
+![colortest](./Themes/Base2Tone-Cave-Light/assets/colortest.png)
 
 </details>
 
@@ -176,7 +181,7 @@ fetch : <br>
 ![fetch](./Themes/Base2Tone-Evening-Dark/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Base2Tone-Evening-Dark/assets/colortest.png)
+![colortest](./Themes/Base2Tone-Evening-Dark/assets/colortest.png)
 
 </details>
 
@@ -191,7 +196,7 @@ fetch : <br>
 ![fetch](./Themes/Base2Tone-Evening-Light/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Base2Tone-Evening-Light/assets/colortest.png)
+![colortest](./Themes/Base2Tone-Evening-Light/assets/colortest.png)
 
 </details>
 
@@ -206,7 +211,7 @@ fetch : <br>
 ![fetch](./Themes/Base2Tone-Heath-Dark/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Base2Tone-Heath-Dark/assets/colortest.png)
+![colortest](./Themes/Base2Tone-Heath-Dark/assets/colortest.png)
 
 </details>
 
@@ -221,7 +226,7 @@ fetch : <br>
 ![fetch](./Themes/Base2Tone-Heath-Light/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Base2Tone-Heath-Light/assets/colortest.png)
+![colortest](./Themes/Base2Tone-Heath-Light/assets/colortest.png)
 
 </details>
 
@@ -236,7 +241,7 @@ fetch : <br>
 ![fetch](./Themes/Base2Tone-Lavender-Dark/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Base2Tone-Lavender-Dark/assets/colortest.png)
+![colortest](./Themes/Base2Tone-Lavender-Dark/assets/colortest.png)
 
 </details>
 
@@ -251,7 +256,7 @@ fetch : <br>
 ![fetch](./Themes/Base2Tone-Lavender-Light/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Base2Tone-Lavender-Light/assets/colortest.png)
+![colortest](./Themes/Base2Tone-Lavender-Light/assets/colortest.png)
 
 </details>
 
@@ -266,7 +271,7 @@ fetch : <br>
 ![fetch](./Themes/Base2Tone-Mall-Dark/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Base2Tone-Mall-Dark/assets/colortest.png)
+![colortest](./Themes/Base2Tone-Mall-Dark/assets/colortest.png)
 
 </details>
 
@@ -281,7 +286,7 @@ fetch : <br>
 ![fetch](./Themes/Base2Tone-Mall-Light/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Base2Tone-Mall-Light/assets/colortest.png)
+![colortest](./Themes/Base2Tone-Mall-Light/assets/colortest.png)
 
 </details>
 
@@ -296,7 +301,7 @@ fetch : <br>
 ![fetch](./Themes/Base2Tone-Motel-Dark/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Base2Tone-Motel-Dark/assets/colortest.png)
+![colortest](./Themes/Base2Tone-Motel-Dark/assets/colortest.png)
 
 </details>
 
@@ -311,7 +316,7 @@ fetch : <br>
 ![fetch](./Themes/Base2Tone-Motel-Light/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Base2Tone-Motel-Light/assets/colortest.png)
+![colortest](./Themes/Base2Tone-Motel-Light/assets/colortest.png)
 
 </details>
 
@@ -326,7 +331,7 @@ fetch : <br>
 ![fetch](./Themes/Sourcerer/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Sourcerer/assets/colortest.png)
+![colortest](./Themes/Sourcerer/assets/colortest.png)
 
 </details>
 
@@ -341,6 +346,6 @@ fetch : <br>
 ![fetch](./Themes/Tokyo-Night/assets/fetch.png)
 
 colortest : <br>
-![fetch](./Themes/Tokyo-Night/assets/colortest.png)
+![colortest](./Themes/Tokyo-Night/assets/colortest.png)
 
 </details>

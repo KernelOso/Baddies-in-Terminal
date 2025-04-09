@@ -319,6 +319,21 @@ colortest : <br>
 
 <details>
 <summary>
+<a href="./Themes/Sourcerer/credits.md">Sourcerer</a>
+</summary>
+
+fetch : <br>
+![fetch](./Themes/Sourcerer/assets/fetch.png)
+
+colortest : <br>
+![fetch](./Themes/Sourcerer/assets/colortest.png)
+
+</details>
+
+
+
+<details>
+<summary>
 <a href="./Themes/Tokyo-Night/credits.md">Tokyo-Night</a>
 </summary>
 

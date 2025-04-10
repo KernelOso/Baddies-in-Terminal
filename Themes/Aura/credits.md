@@ -8,6 +8,7 @@
 - 𝕏 XResources port credits : [Oso](github.com/KernelOso), using [yaml to Terminal Config](https://github.com/KernelOso/yaml-to-alacrity-color-converter)
 - 📱 Termux port credits : [GitHub Repo](https://github.com/daltonmenezes/aura-theme/tree/main/packages/termux)
 - 🪟 Windows Terminal port credits : [GitHub Repo](https://github.com/daltonmenezes/aura-theme/tree/main/packages/windows-terminal)
+- 🐧 Linux TTY port credtis : [Oso](github.com/KernelOso), using [yaml to Terminal Config](https://github.com/KernelOso/yaml-to-alacrity-color-converter)
 
 fetch : <br>
 ![screenshot](./assets/fetch.png)

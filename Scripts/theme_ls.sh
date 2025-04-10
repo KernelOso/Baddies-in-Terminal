@@ -2,6 +2,8 @@
 
 output_file="../THEMES.md"
 
+rm "$output_file" 
+
 # THEMES.md Header
 cat <<EOL >> "$output_file" 
 # Theme List

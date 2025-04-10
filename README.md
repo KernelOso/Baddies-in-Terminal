@@ -8,9 +8,10 @@ A simple repository for compiling terminal color schemes (Base16), ready to be a
 - 🐱 Kitty
 - 🚀 Alacritty
 - 🐜 Termite
-- 𝕏  XResources
+- X  XResources
 - 📱 Termux
 - 🪟 Windows Terminal
+- 🐧 Linux TTY
 
 ## 📄 List of Themes
 
